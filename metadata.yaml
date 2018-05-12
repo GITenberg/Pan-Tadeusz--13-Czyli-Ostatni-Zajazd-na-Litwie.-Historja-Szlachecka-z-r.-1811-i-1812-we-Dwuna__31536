@@ -1,0 +1,30 @@
+_repo: Pan-Tadeusz--13-Czyli-Ostatni-Zajazd-na-Litwie.-Historja-Szlachecka-z-r.-1811-i-1812-we-Dwuna__31536
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mickiewicz, Adam
+    birthdate: 1798
+    deathdate: 1855
+    gutenberg_agent_id: '32429'
+    url: http://www.gutenberg.org/2009/agents/32429
+    wikipedia: http://en.wikipedia.org/wiki/Adam_Mickiewicz
+description: ''
+gutenberg_issued: '2010-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31536'
+language: pl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Gentry -- Lithuania -- Social life and customs -- 19th century -- Poetry'
+- !lcsh 'Gentry -- Poland -- Social life and customs -- 19th century -- Poetry'
+- !lcsh 'Epic poetry, Polish'
+title: "Pan Tadeusz\r\nCzyli Ostatni Zajazd na Litwie. Historja Szlachecka z r. 1811\
+  \ i 1812 we Dwunastu Księgach Wierszem"
+url: http://www.gutenberg.org/ebooks/31536
