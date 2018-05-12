@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32429
     wikipedia: http://en.wikipedia.org/wiki/Adam_Mickiewicz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31536#Pan-Tadeusz--13-Czyli-Ostatni-Zajazd-na-Litwie.-Historja-Szlachecka-z-r.-1811-i-1812-we-Dwuna_
 gutenberg_issued: '2010-03-07'
 gutenberg_type: Text
 identifiers:
